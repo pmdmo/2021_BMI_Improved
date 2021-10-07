@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="metric_weight">Weight (kg)</string>
+    <string name="kgs">(kg)</string>
+    <string name="metric_height">Height (m)</string>
+    <string name="meters">(m)</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="bmi">BMI</string>
+    <string name="reset">Reset</string>
+    <string name="invalid_weight">Invalid weight</string>
+    <string name="invalid_height">Invalid height</string>
+    <string name="bmi_result">BMI: %1$.1f %2$s</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity_grade_1">Obesity class 1</string>
+    <string name="obesity_grade_2">Obesity class 2</string>
+    <string name="obesity_grade_3">Obesity class 3</string>
+    <string name="with_classification">With classification</string>
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metric</string>
+    <string name="unit_system">Unit system: </string>
+    <string name="imperial_weight">Weight (lbs)</string>
+    <string name="pounds">(lbs)</string>
+    <string name="imperial_height">Height (in)</string>
+    <string name="inches">(in)</string>
+    <string name="convert">Convert</string>
+    <string name="weight_conversion">Weight conversion</string>
+    <string name="reset_done">Reset done!!</string>
+    <string name="conversion_to_imperial_done">Converted to imperial unit system</string>
+    <string name="conversion_to_metric_done">Converted to metric unit system</string>
+</resources>
